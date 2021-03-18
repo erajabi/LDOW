@@ -1,1 +1,3 @@
-# LDOW
+# 
+
+Linked Open Data Workshop dataset
